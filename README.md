@@ -18,8 +18,7 @@ OS & Path: Manipulação de caminhos de arquivos de forma segura.
 Clone o repositório:
 
 Bash
-git clone https://github.com/seu-usuario/personal-expense-tracker.git
-
+git clone [https://github.com/seu-usuario/personal-expense-tracker.git
 Acesse a pasta do projeto:
 Bash
 cd personal-expense-tracker
